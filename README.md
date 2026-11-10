@@ -15,9 +15,7 @@ I used AI to build a ridiculously festive spreadsheet featuring 85+ new Christma
 
 ### How to use it
 
-1. Download the Excel spreadsheet from this repository.
-2. Open it in Excel or upload it to Google Sheets.
-3. If using Google Sheets, select **File → Make a copy** to create your own version.
-4. Start watching!
+1. Download the spreadsheet from this repository OR get the Google Sheet to copy here <a href>"https://docs.google.com/spreadsheets/u/0/d/1DmzpwCIfxy9qcKeUqnCUhIMR4nWVCxZT/copy"</a>
+2. Start watching!
 
 Happy holiday movie season!
