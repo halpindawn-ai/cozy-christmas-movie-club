@@ -1,4 +1,4 @@
-<img width="1260" height="1005" alt="cozy_christmas_movie_club_linkedin_preview" src="https://github.com/user-attachments/assets/7afc1151-7b21-4683-a93a-69c9e3c001a4" />
+<img width="610" height="500" alt="cozy_christmas_movie_club_linkedin_preview" src="https://github.com/user-attachments/assets/7afc1151-7b21-4683-a93a-69c9e3c001a4" />
 
 # The Cozy Christmas Movie Club 🎄
 
